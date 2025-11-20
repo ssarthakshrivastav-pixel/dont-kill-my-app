@@ -1,6 +1,6 @@
 ---
 manufacturer: 
-    - realme
+    - realme c25
 
 ---
 
